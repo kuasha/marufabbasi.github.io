@@ -21,6 +21,11 @@ The fabric is most important matrerial. If we can choose right material and make
 
 Ideally we want to use an automated test system where we use several mask and flow air with tiny nano particles on one side and measure how many of the particles are passing. An effective system will be expensive but I am looking for cheap components to get close to ideal situation.
 
+## Next versions
+
+The next version of masks will use better material and try to come close to near isolation from external environment. We want to make a version a little more expensive that will be created from palstic like material and a reusable filter port that we fill with N95 or better filter material. And then we want to create a version with a filter that uses very good disinfectant (probably liquid) filter and final version will use ow3n oxygen tank to completely isolate a person from external environment for respiration. 
+
+
 ## Proof of concept
 
 ![fabric used][fabric]
