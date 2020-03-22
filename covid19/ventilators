@@ -1,0 +1,6 @@
+Building ventilators are not as easy as building masks. But a ventilator is basically an air pump that 
+can control air flow volume, pressure, rate and way to detect patients own respiration status. 
+
+We will need pressure sensors, air compressor, air tank, valves, air pressure regulator etc. as well as 
+a way to control all the parameterws for different mode of operaqtions. A small microcontroller and a 
+LCD display can take responsibility of controllong the device and showing status.
