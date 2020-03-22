@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+    
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -49,7 +50,9 @@
           {% endif %}
 
           {% if site.github.is_project_page %}
-            <p class="repo-owner"><a href="https://www.linkedin.com/in/kuasha/">LinkedIn</a></p>
+            <p class="repo-owner">
+            <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="kuasha"><a class="LI-simple-link" href='https://www.linkedin.com/in/kuasha?trk=profile-badge'>Maruf A.</a></div>
+            </p>
           {% endif %}
         </aside>
       </div>
