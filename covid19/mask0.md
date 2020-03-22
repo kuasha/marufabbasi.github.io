@@ -2,7 +2,9 @@
 
 We have a massive shortage of masks as of today because of COVID-19 pandemic. 
 While in normal times it may not be safe to tell people to build their own masks, it may reduce some risk if sick people 
-uses something to cover their mouth and nose.
+uses something to cover their mouth and nose while going out or coming close to other people. 
+
+The design we are proposing for this will cost about 50 cents to a dollar if we make only a few. If we make 100 or more cost should come down. And the mask may be reusable given that it is washed properly with soap and water.
 
 ## The v0 design 
 *** the design is not ready yet ***
