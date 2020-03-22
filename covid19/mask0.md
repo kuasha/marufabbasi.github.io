@@ -5,14 +5,29 @@ While in normal times it may not be safe to tell people to build their own masks
 uses something to cover their mouth and nose.
 
 ## The v0 design 
+*** the design is not ready yet ***
 
 We do not want anything complicated but just follow a standard mask design and create a resusable mask for few cents each.
 
-## Materials
+### Materials
 
-We need fabric, elastic ribbon, cutting tool and swing equipment. Hand swing or machine swing both should work.
+We need fabric, elastic ribbon, cutting tool and swing equipment. Hand swing or machine swing both should work. First version does not use a metal wire to shape it to nose. I am looking for a suitable metal wire to put on one side so we can bend it to shape around the nose. Not doing that causes one problem- it'll send the exhaled breath upward and make it really uncomfortable to wear. But this is a good start. Now need to work on making it such that air flows through fabric only.
+
+## Proof of concept
+
+![fabric used][fabric]
+
+![elastic ribbon][ribbon]
+
+![mask][mask]
+
+![demo][demo]
 
 
+[demo]: images/demo.jpg "Demonstration by me"
 
+[mask]: images/mask.png "Final mask"
 
+[ribbon]: images/ribbon.jpg "Elastic ribbon"
 
+[fabric]: images/fabric.jpg "Fabric used"
