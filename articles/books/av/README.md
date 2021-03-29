@@ -2,9 +2,9 @@
 Kinematic and dynamic vehicle models
 
 ### Perception
-Semantic segmentation
+[Semantic segmentation](semsegment.html)
 
-Object detection
+[Object detection](objectdetection.html)
 
 ### Machine learning
 Convolution neural network
